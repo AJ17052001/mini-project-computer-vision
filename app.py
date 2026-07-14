@@ -1,4 +1,4 @@
-pip install streamlit torch torchvision transformers pillow
+
 import streamlit as st
 import torch
 from PIL import Image
